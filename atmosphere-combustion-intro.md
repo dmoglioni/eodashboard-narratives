@@ -4,10 +4,26 @@ date: 2025-01-01
 theme: atmosphere
 tags: wildfire,pollution
 official: true
+collections: N1_NO2, N1_SO2, N1_CO, N2_CO2_jaxa_gosat, SIF_solar_induced_chlorophyll_fluorescence
 ---
 
 # NASA, ESA and JAXA, Working Together to Monitor our Atmosphere <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/1-Atmosphere_Overview_Picture.jpg" }-->
 ### Traffic, wildfires, and power plants all emit air pollutants and greenhouse gases as a product of combustion <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
+
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
 
 
 # NASA, ESA and JAXA, Working Together to Monitor our Atmosphere
@@ -23,4 +39,4 @@ Using long-term global observations from satellites and ground-based instruments
 The annual OMI data can be explored to generate maps and trends in these two combustion-related gases at both the regional and city scales. [Click here to learn more about this research.](https://esa-eodashboards.github.io/eodashboard-client/story?id=air-pollution-us-india-china)
 
 * ESA - Carbon monoxide (CO) observations from the TROPOspheric Monitoring Instrument (TROPOMI) reveal the global and regional air quality changes of the 2021 mega-wildfires in Australia. Smoldering wood from wildfires produces CO that stays in the atmosphere for about a month. Satellite observations of CO are used to track wildfire smoke as it is transported around the world. [Click here to learn more about this research.](https://esa-eodashboards.github.io/eodashboard-client/story?id=australian-bushfires)
-* JAXA – JAXA uses data from the Greenhouse Gases Observing Satellites (GOSAT and GOSAT-2) to observe and study changes in carbon dioxide (CO2) in Cairo and major cities around the globe. To better understand the changes in CO2 from these selected major cities, this investigation also leverages complementary satellite observations of NO2, CO2, as well as an indicator of photosynthesis (i.e., solar-induced fluorescence [SIF]) from other partner agency satellites (e.g., ESA’s TROPOMI and NASA’s Orbiting Carbon Observatory-2 [OCO-2]). [Click here to learn more about this research.](https://www.eodashboard.org/story?id=cairo-farmlands)
+* JAXA – JAXA uses data from the Greenhouse Gases Observing Satellites (GOSAT and GOSAT-2) to observe and study changes in carbon dioxide (CO2) in Cairo and major cities around the globe. To better understand the changes in CO2 from these selected major cities, this investigation also leverages complementary satellite observations of NO2, CO2, as well as an indicator of photosynthesis (i.e., solar-induced fluorescence [SIF]) from other partner agency satellites (e.g., ESA’s TROPOMI and NASA’s Orbiting Carbon Observatory-2 [OCO-2]). [Click here to learn more about this research.](https://eodashboard.org/story?id=cairo-farmlands)

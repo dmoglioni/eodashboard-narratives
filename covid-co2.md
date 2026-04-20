@@ -4,12 +4,28 @@ date: 2025-01-01
 theme: covid-19
 tags: co2
 official: true
+collections: N2_CO2_mean, N2_CO2_jaxa_gosat, N1_NO2_trilateral, CV_Covid_19_cases
 ---
 
 # Covid-19 Impacts on Greenhouse Gases <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/main/stories/covid-co2/hero.jpg" }-->
 ### Effect of lockdown on Carbon Dioxide <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
-## Covid-19 Impacts on Greenhouse Gases
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
+
+## Impacts on Greenhouse Gases
 
 Lockdowns and other social distancing measures implemented in response to the COVID-19 pandemic have led to temporary reductions in carbon dioxide (CO2)
 emissions from fossil fuel combustion and other human activities.
@@ -36,7 +52,7 @@ CO2 emission reductions have been accompanied by comparable, or even greater, re
 To track atmospheric CO2 changes resulting from the lockdowns, observations collected by the NASA [Orbiting Carbon Observatory-2 (OCO-2)](https://oco.jpl.nasa.gov/) satellite and Japan’s [Greenhouse gases Observing SATellite (GOSAT)](https://www.eorc.jaxa.jp/GOSAT/index.html) during the first few months of 2020 were compared to results collected in previous years. The OCO-2 results were used to search for changes on regional scales over the globe. Targeted observations from GOSAT were used to track changes in large urban areas, such as Beijing, Tokyo, Mumbai, and New York. Both types of observations yielded key insights into the CO2 changes accompanying the economic disruptions caused by the COVID-19 pandemic.
 
 
-## Regional Scale Changes in CO2 across the Globe
+## Regional Scale Changes in CO2
 
 To determine whether short-term reductions in CO2 emissions from coronavirus shutdowns are even detectable on a regional scale, scientists must create new methods of data analysis with enough sensitivity and precision to distinguish between normal seasonal changes in background CO2 levels and small perturbations caused by coronavirus shutdowns.
 
@@ -52,7 +68,7 @@ The maps below show these comparisons for the peak periods of the lockdowns in C
 </center>
 
 
-## CO2 Changes over Large Urban Areas
+## CO2 Changes in Large Urban Areas
 
 Scientists use GOSAT data to determine changes in atmospheric CO2 over large urban areas, which experienced the largest changes in economic activity associated with the onset of the COVID-19 pandemic. While OCO-2 is optimized for detecting the subtle, regional-scale changes in CO2, GOSAT has advantages for tracking changes in CO2 emissions over large cities.
 

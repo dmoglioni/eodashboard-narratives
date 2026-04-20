@@ -4,12 +4,28 @@ date: 2025-01-01
 theme: oceans
 tags: pollution,lakes,water
 official: true
+collections: Lakes_SWT_surface_water_temperature, Lakes_WQ_TURB_water_turbidity, Lakes_S2L2A, Lakes_ALOS2, NLK_lakes, LWE_lake_water_extent, LWL_lake_water_level
 ---
 
 #  Troubled Waters: Unraveling the Impacts of Climate Change on Inland Waters <!--{ as="img" mode="hero" src="https://raw.githubusercontent.com/eurodatacube/eodash/c59adc7d580c6ced1f85a44c5bdd18bf94b3c9ee/app/public/data/story-images/lakes_cover.jpg" }-->
 ### Read more about how Air Pollution affects Climate Change <!--{ style="font-size:1.5rem;opacity:0.7;margin-top:1rem;" }-->
 
-# Impacts of climate on inland water
+## <!--{ nav="false" }-->
+<div align="center">
+
+*This trilateral story, produced in collaboration by the [European Space Agency (ESA)](https://www.esa.int), the [National Aeronautics and Space Administration (NASA)](https://www.nasa.gov/), and the [Japan Aerospace Exploration Agency (JAXA)](https://global.jaxa.jp/), is part of the joint narratives featured on [EO Dashboard](https://eodashboard.org/), showcasing the power of open Earth observation data.*
+
+</div>
+
+
+  ## <!--{ nav="false" }-->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/esa.jpg" alt="ESA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/nasa.jpeg" alt="NASA" height="80" style="margin: 0 15px;"/>
+  <img src="https://raw.githubusercontent.com/eurodatacube/eodash-assets/refs/heads/main/logos/jaxa.jpeg" alt="JAXA" height="80" style="margin: 0 15px;"/>
+</p>
+
+## Impacts of climate on inland water
 
 Inland surface water habitats are non-coastal above-ground open fresh or brackish waterbodies (e.g. rivers, streams, lakes and pools, springs), including their littoral zones [1]. With sustainable management practices, these water resources provide essential services such as food production, flood regulation and water purification [2,3] for the wellbeing of both urban and rural communities. Climate change and anthropogenic actions put multiple pressures on these sources of water, with far-reaching consequences ultimately affecting the health of humans and animals. Satellite remote sensing offers effective ways to monitor these impacts and understand the risks of reaching ‘tipping points’: a critical threshold where a small change in a certain condition can lead to large (and often irreversible) shift in the system. Earth observation satellites from ESA [4-6], NASA [7,8], and JAXA [9] allow scientists to have a clear view on different variables characterising inland water bodies including:
 
@@ -51,12 +67,12 @@ Researchers at NASA, the European Space Agency (ESA) and the Japan Aerospace Exp
 - [15] [SMOS L1 and L2 Science data](https://earth.esa.int/eogateway/catalog/smos-science-products)
 - [16] [Aquarius Mission Overview](https://www.nasa.gov/mission_pages/aquarius/overview/index.html)
 
-## Read More
+### Read More
 
 - [California's Lake Oroville hits 100% capacity](https://www.esa.int/ESA_Multimedia/Images/2023/06/California_s_Lake_Oroville_hits_100_capacity)
 - [Severe heatwaves putting lakes in hot water](https://www.esa.int/Applications/Observing_the_Earth/Space_for_our_climate/Severe_heatwaves_putting_lakes_in_hot_water)
 
-## Work with Inland Water Data in the Euro Data Cube
+## Jupyter Notebook
 
 Earth Observations, Essential Climate Variables, Environmental and other geospatial data are available in the [Euro Data Cube (EDC)](https://eurodatacube.com/).
 
